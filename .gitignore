@@ -1,0 +1,12 @@
+
+zoho-books-gas/
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+secrets/
+*.pem
+*.key
+.DS_Store
+Thumbs.db
